@@ -1,0 +1,25 @@
+{
+  "unversionedId": "all-intro",
+  "id": "all-intro",
+  "title": "序言",
+  "description": "此模块为my所有博客笔记汇总，主要记录",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/all-intro",
+  "permalink": "/docs/all-intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "all-intro",
+    "title": "序言",
+    "sidebar_label": "开始"
+  },
+  "sidebar": "mySidebar",
+  "next": {
+    "title": "第一个html",
+    "permalink": "/docs/html/01第一个html"
+  }
+}

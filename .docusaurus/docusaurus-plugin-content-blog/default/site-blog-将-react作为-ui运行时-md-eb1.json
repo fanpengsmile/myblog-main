@@ -1,0 +1,45 @@
+{
+  "permalink": "/将React作为UI运行时",
+  "source": "@site/blog/将React作为UI运行时.md",
+  "title": "将React作为UI运行时",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:02:51.620Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 56.635,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "将React作为UI运行时",
+    "title": "将React作为UI运行时",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React高阶组件",
+    "permalink": "/React高阶组件"
+  },
+  "nextItem": {
+    "title": "React：事件机制原理",
+    "permalink": "/React：事件机制原理"
+  }
+}

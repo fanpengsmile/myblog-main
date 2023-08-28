@@ -1,0 +1,50 @@
+{
+  "permalink": "/map-use",
+  "source": "@site/blog/2021-05-18-map-use.md",
+  "title": "js map函数的用法",
+  "description": "map()方法只能应用于数组遍历。如果想要遍历对象，可将对象转化为数组对象再其进行遍历。下面让我们来了解map的用法吧~",
+  "date": "2021-05-18T00:00:00.000Z",
+  "formattedDate": "2021年5月18日",
+  "tags": [
+    {
+      "label": "js",
+      "permalink": "/tags/js"
+    },
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    }
+  ],
+  "readingTime": 0.795,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "map-use",
+    "title": "js map函数的用法",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "map()方法只能应用于数组遍历。如果想要遍历对象，可将对象转化为数组对象再其进行遍历。下面让我们来了解map的用法吧~",
+    "tags": [
+      "js",
+      "前端"
+    ],
+    "activityId": "20210518"
+  },
+  "prevItem": {
+    "title": "使用react+docusaurus快速搭建一个博客网站",
+    "permalink": "/使用react+docusaurus快速搭建一个博客网站"
+  },
+  "nextItem": {
+    "title": "vscode+react环境部署，运行第一个react框架",
+    "permalink": "/react-use"
+  }
+}

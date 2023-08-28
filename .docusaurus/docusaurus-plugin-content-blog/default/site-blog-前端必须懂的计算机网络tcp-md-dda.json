@@ -1,0 +1,45 @@
+{
+  "permalink": "/前端必须懂的计算机网络TCP",
+  "source": "@site/blog/前端必须懂的计算机网络TCP.md",
+  "title": "前端必须懂的计算机网络TCP",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:15:07.551Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 20.235,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "前端必须懂的计算机网络TCP",
+    "title": "前端必须懂的计算机网络TCP",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "cookie、session、sessionStorage、localStorage区别",
+    "permalink": "/cookie、session、sessionStorage、localStorage区别"
+  },
+  "nextItem": {
+    "title": "深入理解浏览器的缓存机制",
+    "permalink": "/深入理解浏览器的缓存机制"
+  }
+}

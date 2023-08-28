@@ -1,0 +1,45 @@
+{
+  "permalink": "/前端必备HTTP技能之同源策略详解",
+  "source": "@site/blog/前端必备HTTP技能之同源策略详解.md",
+  "title": "前端必备HTTP技能之同源策略详解",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:12:37.413Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 16.175,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "前端必备HTTP技能之同源策略详解",
+    "title": "前端必备HTTP技能之同源策略详解",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "深入理解浏览器的缓存机制",
+    "permalink": "/深入理解浏览器的缓存机制"
+  },
+  "nextItem": {
+    "title": "react-redux之connect方法详解",
+    "permalink": "/react-redux之connect方法详解"
+  }
+}

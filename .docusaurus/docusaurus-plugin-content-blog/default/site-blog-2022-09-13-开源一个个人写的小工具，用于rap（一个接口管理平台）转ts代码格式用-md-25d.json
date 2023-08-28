@@ -1,0 +1,49 @@
+{
+  "permalink": "/开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用",
+  "source": "@site/blog/2022-09-13开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用.md",
+  "title": "开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用",
+  "description": "开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用。",
+  "date": "2022-09-13T00:00:00.000Z",
+  "formattedDate": "2022年9月13日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "工具",
+      "permalink": "/tags/工具"
+    }
+  ],
+  "readingTime": 2.655,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用",
+    "title": "开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用。",
+    "tags": [
+      "前端",
+      "工具"
+    ]
+  },
+  "prevItem": {
+    "title": "react生命周期总结（旧、新生命周期及Hook）",
+    "permalink": "/react生命周期总结（旧、新生命周期及Hook）"
+  },
+  "nextItem": {
+    "title": "制作一个炫酷的github个人主页",
+    "permalink": "/制作一个炫酷的github个人主页"
+  }
+}

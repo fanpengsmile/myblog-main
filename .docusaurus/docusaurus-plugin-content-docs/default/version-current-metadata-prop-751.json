@@ -1,0 +1,291 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "mySidebar": [
+      {
+        "type": "link",
+        "label": "开始",
+        "href": "/docs/all-intro",
+        "docId": "all-intro"
+      },
+      {
+        "type": "category",
+        "label": "html(18)",
+        "items": [
+          {
+            "type": "link",
+            "label": "第一个html",
+            "href": "/docs/html/01第一个html",
+            "docId": "html/01第一个html"
+          },
+          {
+            "type": "link",
+            "label": "LocalStorage与SessionStorage",
+            "href": "/docs/html/02LocalStorage与SessionStorage",
+            "docId": "html/02LocalStorage与SessionStorage"
+          },
+          {
+            "type": "link",
+            "label": "HTML DOM节点操作",
+            "href": "/docs/html/03HTML DOM节点操作",
+            "docId": "html/03HTML DOM节点操作"
+          },
+          {
+            "type": "link",
+            "label": "iframe框架及优缺点",
+            "href": "/docs/html/04iframe框架及优缺点",
+            "docId": "html/04iframe框架及优缺点"
+          },
+          {
+            "type": "link",
+            "label": "Cookie与Session",
+            "href": "/docs/html/05Cookie与Session",
+            "docId": "html/05Cookie与Session"
+          },
+          {
+            "type": "link",
+            "label": "HTML5新特性",
+            "href": "/docs/html/06HTML5新特性",
+            "docId": "html/06HTML5新特性"
+          },
+          {
+            "type": "link",
+            "label": "Canvas基础",
+            "href": "/docs/html/07Canvas基础",
+            "docId": "html/07Canvas基础"
+          },
+          {
+            "type": "link",
+            "label": "前端性能优化方案",
+            "href": "/docs/html/08前端性能优化方案",
+            "docId": "html/08前端性能优化方案"
+          },
+          {
+            "type": "link",
+            "label": "行内元素和块级元素",
+            "href": "/docs/html/09行内元素和块级元素",
+            "docId": "html/09行内元素和块级元素"
+          },
+          {
+            "type": "link",
+            "label": "Web Worker",
+            "href": "/docs/html/10Web Worker",
+            "docId": "html/10Web Worker"
+          },
+          {
+            "type": "link",
+            "label": "300ms点击延迟",
+            "href": "/docs/html/11300ms点击延迟",
+            "docId": "html/11300ms点击延迟"
+          },
+          {
+            "type": "link",
+            "label": "事件冒泡与阻止冒泡机制",
+            "href": "/docs/html/12事件冒泡与阻止冒泡机制",
+            "docId": "html/12事件冒泡与阻止冒泡机制"
+          },
+          {
+            "type": "link",
+            "label": "可替换元素和非替换元素",
+            "href": "/docs/html/13可替换元素和非替换元素",
+            "docId": "html/13可替换元素和非替换元素"
+          },
+          {
+            "type": "link",
+            "label": "HTML与XHTML区别",
+            "href": "/docs/html/14HTML与XHTML区别",
+            "docId": "html/14HTML与XHTML区别"
+          },
+          {
+            "type": "link",
+            "label": "常见的兼容性问题",
+            "href": "/docs/html/15常见的兼容性问题",
+            "docId": "html/15常见的兼容性问题"
+          },
+          {
+            "type": "link",
+            "label": "DOM和BOM的区别",
+            "href": "/docs/html/16DOM和BOM的区别",
+            "docId": "html/16DOM和BOM的区别"
+          },
+          {
+            "type": "link",
+            "label": "实现图片懒加载",
+            "href": "/docs/html/17实现图片懒加载",
+            "docId": "html/17实现图片懒加载"
+          },
+          {
+            "type": "link",
+            "label": "Shadow DOM的理解",
+            "href": "/docs/html/18Shadow DOM的理解",
+            "docId": "html/18Shadow DOM的理解"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "css(1)",
+        "items": [
+          {
+            "type": "link",
+            "label": "第一个css",
+            "href": "/docs/css/01第一个css",
+            "docId": "css/01第一个css"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "all-intro": {
+      "id": "all-intro",
+      "title": "序言",
+      "description": "此模块为my所有博客笔记汇总，主要记录",
+      "sidebar": "mySidebar"
+    },
+    "css/01第一个css": {
+      "id": "css/01第一个css",
+      "title": "第一个css",
+      "description": "",
+      "sidebar": "mySidebar"
+    },
+    "css/css-intro": {
+      "id": "css/css-intro",
+      "title": "css前言",
+      "description": "本页为css教程前言页"
+    },
+    "html/01第一个html": {
+      "id": "html/01第一个html",
+      "title": "第一个html",
+      "description": "",
+      "sidebar": "mySidebar"
+    },
+    "html/02LocalStorage与SessionStorage": {
+      "id": "html/02LocalStorage与SessionStorage",
+      "title": "LocalStorage与SessionStorage",
+      "description": "localStorage和sessionStorage是HTML5提供的对于Web存储的解决方案。",
+      "sidebar": "mySidebar"
+    },
+    "html/03HTML DOM节点操作": {
+      "id": "html/03HTML DOM节点操作",
+      "title": "HTML DOM节点操作",
+      "description": "HTML节点的基本操作，添加节点，替换节点，删除节点，绑定事件，访问子节点，访问父节点，访问兄弟节点。",
+      "sidebar": "mySidebar"
+    },
+    "html/04iframe框架及优缺点": {
+      "id": "html/04iframe框架及优缺点",
+      "title": "iframe框架及优缺点",
+      "description": "HTML5不再支持使用frame，关于frame与iframe的区别，可以参阅  iframe与frame的区别。",
+      "sidebar": "mySidebar"
+    },
+    "html/05Cookie与Session": {
+      "id": "html/05Cookie与Session",
+      "title": "Cookie与Session",
+      "description": "会话跟踪是Web程序中常用的技术，HTTP协议是无状态的，确定用户身份就需要跟踪用户的整个会话。最常用的会话跟踪是使用Cookie与Session，简单来说Cookie通过在客户端记录信息确定用户身份，Session通过在服务器端记录信息确定用户身份。",
+      "sidebar": "mySidebar"
+    },
+    "html/06HTML5新特性": {
+      "id": "html/06HTML5新特性",
+      "title": "HTML5新特性",
+      "description": "HTML5是下一代HTML标准，是HTML最新的修订版本，2014年10月由万维网联盟W3C完成标准制定，HTML5将HTML从用于构造一个文档的一个简单标记，到一个完整的应用程序开发平台，HTML5还包括新元素和用于增强存储、多媒体和硬件访问的JavaScript APIs。",
+      "sidebar": "mySidebar"
+    },
+    "html/07Canvas基础": {
+      "id": "html/07Canvas基础",
+      "title": "Canvas基础",
+      "description": "HTML5中引入`标签，用于图形的绘制，为图形的绘制提供了画布，是图形容器，具体的图形绘制由JavaScript`来完成。",
+      "sidebar": "mySidebar"
+    },
+    "html/08前端性能优化方案": {
+      "id": "html/08前端性能优化方案",
+      "title": "前端性能优化方案",
+      "description": "前端资源比较庞大，包括HTML、CSS、JavaScript、Image、Flash、Media、Font、Doc等等，前端优化相对比较复杂，对于各种资源的优化都有不同的方式，按粒度大致可以分为两类，第一类是页面级别的优化，例如减小HTTP请求数、脚本的无阻塞加载、内联脚本的位置优化等，第二类则是代码级别的优化，例如JavaScript中的DOM操作优化、图片优化以及HTML结构优化等等。在用户角度前端优化可以让页面加载得更快，对用户的操作响应得更及时，能够给用户提供更为友好的体验，在服务商角度前端优化能够减少页面请求数，减小请求所占带宽，能够节省服务器资源。",
+      "sidebar": "mySidebar"
+    },
+    "html/09行内元素和块级元素": {
+      "id": "html/09行内元素和块级元素",
+      "title": "行内元素和块级元素",
+      "description": "HTML可以将元素种类分为行内元素、块级元素和行内块级元素三种，在使用过程中可以通过CSS的display属性相互转换。",
+      "sidebar": "mySidebar"
+    },
+    "html/10Web Worker": {
+      "id": "html/10Web Worker",
+      "title": "Web Worker",
+      "description": "JavaScript是单线程语言，如果在Js主线程上进行比较耗时的操作，那么不仅异步的事件回调无法正常完成，浏览器的渲染线程也将被阻塞，无法正常渲染页面。Web Worker能够把JavaScript计算委托给后台线程，线程可以执行任务而不干扰用户界面。",
+      "sidebar": "mySidebar"
+    },
+    "html/11300ms点击延迟": {
+      "id": "html/11300ms点击延迟",
+      "title": "300ms点击延迟",
+      "description": "移动端的300ms点击延迟是因为移动端可以进行双击缩放的操作，因此浏览器在click之后要等待300ms，看用户有没有下一次点击，也就是判断这次操作是单击还是双击。如果通过监听touchstart事件来替代click事件的话，会导致一些问题：touchstart是手指触摸屏幕就触发，有时候用户只是想滑动屏幕，却触发了touchstart事件；当页面上有两个元素A和B，A元素在B元素上重叠放置，如果A元素的touchstart事件绑定的回调函数是隐藏A元素自身，那么当点击A元素后A元素会消失，事件的触发顺序是touchstart -> touchend -> click，如果在300ms内没有第二次点击便会触发click事件，此时由于A元素消失，那么click事件便落到了B元素上，如果B元素是个链接或者绑定了click事件，那么B元素的默认行为或者是绑定的事件回调便会意外地触发，这就是点击穿透问题，解决这个问题还是需要解决click事件的300ms延迟问题。",
+      "sidebar": "mySidebar"
+    },
+    "html/12事件冒泡与阻止冒泡机制": {
+      "id": "html/12事件冒泡与阻止冒泡机制",
+      "title": "事件冒泡与阻止冒泡机制",
+      "description": "浏览器以及HTML元素提供了一些默认行为，也可以称作默认事件。",
+      "sidebar": "mySidebar"
+    },
+    "html/13可替换元素和非替换元素": {
+      "id": "html/13可替换元素和非替换元素",
+      "title": "可替换元素和非替换元素",
+      "description": "可替换元素replaced element也称作可置换元素，其展现效果不是由CSS来控制的，这些元素是一种外部对象，它们外观的渲染，是独立于CSS的。非置换元素non-replaced element也称作非替换元素，其内容由CSS渲染直接表现给客户端。",
+      "sidebar": "mySidebar"
+    },
+    "html/14HTML与XHTML区别": {
+      "id": "html/14HTML与XHTML区别",
+      "title": "HTML与XHTML区别",
+      "description": "HTML称为超文本标记语言Hyper Text Markup Language，是一种标识性的语言。XHTML称为扩展超文本标记语言Extensible HyperText Markup Language，同样是一种标识性的语言，表现方式与HTML类似，不过语法上更加严格。从关系上讲，HTML是基于标准通用标记语言SGML的应用，XML是SGML的一个子集，而XHTML则基于XML。",
+      "sidebar": "mySidebar"
+    },
+    "html/15常见的兼容性问题": {
+      "id": "html/15常见的兼容性问题",
+      "title": "常见的兼容性问题",
+      "description": "浏览器有着大量不同的版本，不同种类的浏览器的内核也不尽相同，所以不同浏览器对代码的解析会存在差异，这就导致对页面渲染效果不统一的问题。",
+      "sidebar": "mySidebar"
+    },
+    "html/16DOM和BOM的区别": {
+      "id": "html/16DOM和BOM的区别",
+      "title": "DOM和BOM的区别",
+      "description": "在浏览器中运行的JavaScript可以认为由三部分组成：ECMAScript描述了该语言的语法和基本对象，DOM文档对象模型描述了处理网页内容的方法和接口，BOM浏览器对象模型描述了与浏览器进行交互的方法和接口。",
+      "sidebar": "mySidebar"
+    },
+    "html/17实现图片懒加载": {
+      "id": "html/17实现图片懒加载",
+      "title": "实现图片懒加载",
+      "description": "图片懒加载就是当页面需要展示较多图片时，首先只加载显示在当前屏幕位置的图片，在页面向下滚动时，再加载其他需要显示在当前屏幕位置的图片，这样可以防止一次性对服务器发送大量请求，并可以在用户不需要完整浏览页面的情况下减少服务器资源消耗。",
+      "sidebar": "mySidebar"
+    },
+    "html/18Shadow DOM的理解": {
+      "id": "html/18Shadow DOM的理解",
+      "title": "Shadow DOM的理解",
+      "description": "Shadow DOM是HTML的一个规范，其允许在文档document渲染时插入一颗DOM元素子树，但是这棵子树不在主DOM树中，Shadow DOM如果按照英文翻译的话可以翻译为影子DOM，是一种不属于主DOM树的独立的结构。",
+      "sidebar": "mySidebar"
+    },
+    "html/html-intro": {
+      "id": "html/html-intro",
+      "title": "html",
+      "description": "本页为html学习前言页"
+    },
+    "mdx": {
+      "id": "mdx",
+      "title": "Powered by MDX",
+      "description": "You can write JSX and use React components within your Markdown thanks to MDX."
+    },
+    "react/react-intro": {
+      "id": "react/react-intro",
+      "title": "react前言",
+      "description": "本页为react教程前言页"
+    }
+  }
+}

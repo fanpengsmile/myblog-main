@@ -1,0 +1,29 @@
+{
+  "unversionedId": "html/10Web Worker",
+  "id": "html/10Web Worker",
+  "title": "Web Worker",
+  "description": "JavaScript是单线程语言，如果在Js主线程上进行比较耗时的操作，那么不仅异步的事件回调无法正常完成，浏览器的渲染线程也将被阻塞，无法正常渲染页面。Web Worker能够把JavaScript计算委托给后台线程，线程可以执行任务而不干扰用户界面。",
+  "source": "@site/docs/html/10Web Worker.md",
+  "sourceDirName": "html",
+  "slug": "/html/10Web Worker",
+  "permalink": "/docs/html/10Web Worker",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "10Web Worker",
+    "title": "Web Worker",
+    "sidebar_label": "Web Worker"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "行内元素和块级元素",
+    "permalink": "/docs/html/09行内元素和块级元素"
+  },
+  "next": {
+    "title": "300ms点击延迟",
+    "permalink": "/docs/html/11300ms点击延迟"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "permalink": "/一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+  "source": "@site/blog/2023-01-14一文学会ajax基础使用与使用nodejs搭建一个后端服务.md",
+  "title": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+  "description": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+  "date": "2023-01-14T00:00:00.000Z",
+  "formattedDate": "2023年1月14日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "ajax",
+      "permalink": "/tags/ajax"
+    },
+    {
+      "label": "node.js",
+      "permalink": "/tags/node-js"
+    }
+  ],
+  "readingTime": 19.79,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+    "title": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+    "tags": [
+      "前端",
+      "ajax",
+      "node.js"
+    ]
+  },
+  "prevItem": {
+    "title": "如何使用react-router实现一个路由权限判断",
+    "permalink": "/如何使用react-router实现一个路由权限判断"
+  },
+  "nextItem": {
+    "title": "react高阶组件概念与简单使用",
+    "permalink": "/react高阶组件概念与简单使用"
+  }
+}

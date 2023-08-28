@@ -1,0 +1,49 @@
+{
+  "permalink": "/一个前端开发从零开始配置前端开发环境纪实",
+  "source": "@site/blog/2021-06-15-一个前端开发从零开始配置前端开发环境纪实.md",
+  "title": "一个前端开发从零开始配置前端开发环境纪实",
+  "description": "请输入描述",
+  "date": "2021-06-15T00:00:00.000Z",
+  "formattedDate": "2021年6月15日",
+  "tags": [
+    {
+      "label": "前端环境配置",
+      "permalink": "/tags/前端环境配置"
+    },
+    {
+      "label": "个人记录",
+      "permalink": "/tags/个人记录"
+    }
+  ],
+  "readingTime": 2.8,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "一个前端开发从零开始配置前端开发环境纪实",
+    "title": "一个前端开发从零开始配置前端开发环境纪实",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "请输入描述",
+    "tags": [
+      "前端环境配置",
+      "个人记录"
+    ]
+  },
+  "prevItem": {
+    "title": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+    "permalink": "/回炉重造，css常规布局系统整理——实战开发后复盘小结"
+  },
+  "nextItem": {
+    "title": "使用react+docusaurus快速搭建一个博客网站",
+    "permalink": "/使用react+docusaurus快速搭建一个博客网站"
+  }
+}

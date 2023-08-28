@@ -1,0 +1,20 @@
+{
+  "unversionedId": "react/react-intro",
+  "id": "react/react-intro",
+  "title": "react前言",
+  "description": "本页为react教程前言页",
+  "source": "@site/docs/react/intro.md",
+  "sourceDirName": "react",
+  "slug": "/react/react-intro",
+  "permalink": "/docs/react/react-intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "react-intro",
+    "title": "react前言",
+    "sidebar_label": "写在前面"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "permalink": "/web前端安全攻击与防御",
+  "source": "@site/blog/web前端安全攻击与防御.md",
+  "title": "web前端安全攻击与防御",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:17:08.959Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 12.63,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "web前端安全攻击与防御",
+    "title": "web前端安全攻击与防御",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "浏览器输入URL后发生了什么",
+    "permalink": "/浏览器输入URL后发生了什么"
+  },
+  "nextItem": {
+    "title": "cookie、session、sessionStorage、localStorage区别",
+    "permalink": "/cookie、session、sessionStorage、localStorage区别"
+  }
+}

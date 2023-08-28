@@ -1,0 +1,45 @@
+{
+  "permalink": "/自定义Loader",
+  "source": "@site/blog/自定义Loader.md",
+  "title": "自定义Loader",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:31:30.799Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 6.79,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "自定义Loader",
+    "title": "自定义Loader",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React服务端渲染",
+    "permalink": "/React服务端渲染"
+  },
+  "nextItem": {
+    "title": "webpack打包原理",
+    "permalink": "/webpack打包原理"
+  }
+}

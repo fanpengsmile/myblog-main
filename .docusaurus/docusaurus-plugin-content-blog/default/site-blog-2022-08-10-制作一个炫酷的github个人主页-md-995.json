@@ -1,0 +1,49 @@
+{
+  "permalink": "/制作一个炫酷的github个人主页",
+  "source": "@site/blog/2022-08-10制作一个炫酷的github个人主页.md",
+  "title": "制作一个炫酷的github个人主页",
+  "description": "制作一个炫酷的github个人主页。",
+  "date": "2022-08-10T00:00:00.000Z",
+  "formattedDate": "2022年8月10日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "github",
+      "permalink": "/tags/github"
+    }
+  ],
+  "readingTime": 2.465,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "制作一个炫酷的github个人主页",
+    "title": "制作一个炫酷的github个人主页",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "制作一个炫酷的github个人主页。",
+    "tags": [
+      "前端",
+      "github"
+    ]
+  },
+  "prevItem": {
+    "title": "开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用",
+    "permalink": "/开源一个个人写的小工具，用于rap（一个接口管理平台）转ts代码格式用"
+  },
+  "nextItem": {
+    "title": "MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）",
+    "permalink": "/MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）"
+  }
+}

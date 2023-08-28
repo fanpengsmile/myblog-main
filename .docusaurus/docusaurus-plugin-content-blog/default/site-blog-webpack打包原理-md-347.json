@@ -1,0 +1,45 @@
+{
+  "permalink": "/webpack打包原理",
+  "source": "@site/blog/webpack打包原理.md",
+  "title": "webpack打包原理",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:30:06.992Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 18.56,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "webpack打包原理",
+    "title": "webpack打包原理",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "自定义Loader",
+    "permalink": "/自定义Loader"
+  },
+  "nextItem": {
+    "title": "理解BFC原理",
+    "permalink": "/理解BFC原理"
+  }
+}

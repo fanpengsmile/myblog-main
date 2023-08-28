@@ -1,0 +1,49 @@
+{
+  "permalink": "/ts绕开属性检查的3种方法",
+  "source": "@site/blog/2023-03-10ts绕开属性检查的3种方法.md",
+  "title": "ts绕开属性检查的3种方法",
+  "description": "ts绕开属性检查的3种方法",
+  "date": "2023-03-10T00:00:00.000Z",
+  "formattedDate": "2023年3月10日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "ts",
+      "permalink": "/tags/ts"
+    }
+  ],
+  "readingTime": 2.735,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "ts绕开属性检查的3种方法",
+    "title": "ts绕开属性检查的3种方法",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "ts绕开属性检查的3种方法",
+    "tags": [
+      "前端",
+      "ts"
+    ]
+  },
+  "prevItem": {
+    "title": "这14种UML图，你知道几个？",
+    "permalink": "/这14种UML图，你知道几个？"
+  },
+  "nextItem": {
+    "title": "如何使用react-router实现一个路由权限判断",
+    "permalink": "/如何使用react-router实现一个路由权限判断"
+  }
+}

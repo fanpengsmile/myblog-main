@@ -1,0 +1,45 @@
+{
+  "permalink": "/跨源资源共享CORS",
+  "source": "@site/blog/跨源资源共享CORS.md",
+  "title": "跨源资源共享CORS",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:25:27.756Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 26.17,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "跨源资源共享CORS",
+    "title": "跨源资源共享CORS",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "浏览器的回流与重绘Reflow-Repaint",
+    "permalink": "/浏览器的回流与重绘Reflow-Repaint"
+  },
+  "nextItem": {
+    "title": "JavaScript的工作原理：解析、抽象语法树",
+    "permalink": "/JavaScript的工作原理：解析、抽象语法树"
+  }
+}

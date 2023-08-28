@@ -1,0 +1,49 @@
+{
+  "permalink": "/vue3中子父组件传值通信的9种方法",
+  "source": "@site/blog/2023-05-20vue3中子父组件传值通信的9种方法.md",
+  "title": "vue3中子父组件传值通信的9种方法",
+  "description": "vue3中子父组件传值通信的9种方法",
+  "date": "2023-05-20T00:00:00.000Z",
+  "formattedDate": "2023年5月20日",
+  "tags": [
+    {
+      "label": "架构",
+      "permalink": "/tags/架构"
+    },
+    {
+      "label": "UML",
+      "permalink": "/tags/uml"
+    }
+  ],
+  "readingTime": 1.735,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vue3中子父组件传值通信的9种方法",
+    "title": "vue3中子父组件传值通信的9种方法",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "vue3中子父组件传值通信的9种方法",
+    "tags": [
+      "架构",
+      "UML"
+    ]
+  },
+  "prevItem": {
+    "title": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+    "permalink": "/浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案"
+  },
+  "nextItem": {
+    "title": "这14种UML图，你知道几个？",
+    "permalink": "/这14种UML图，你知道几个？"
+  }
+}

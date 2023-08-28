@@ -1,0 +1,45 @@
+{
+  "permalink": "/React服务端渲染",
+  "source": "@site/blog/React服务端渲染.md",
+  "title": "React服务端渲染",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:33:48.770Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 41.175,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "React服务端渲染",
+    "title": "React服务端渲染",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "前端JS沙箱实现的几种方式",
+    "permalink": "/前端JS沙箱实现的几种方式"
+  },
+  "nextItem": {
+    "title": "自定义Loader",
+    "permalink": "/自定义Loader"
+  }
+}

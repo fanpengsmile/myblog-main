@@ -1,0 +1,29 @@
+{
+  "unversionedId": "html/16DOM和BOM的区别",
+  "id": "html/16DOM和BOM的区别",
+  "title": "DOM和BOM的区别",
+  "description": "在浏览器中运行的JavaScript可以认为由三部分组成：ECMAScript描述了该语言的语法和基本对象，DOM文档对象模型描述了处理网页内容的方法和接口，BOM浏览器对象模型描述了与浏览器进行交互的方法和接口。",
+  "source": "@site/docs/html/16DOM和BOM的区别.md",
+  "sourceDirName": "html",
+  "slug": "/html/16DOM和BOM的区别",
+  "permalink": "/docs/html/16DOM和BOM的区别",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "16DOM和BOM的区别",
+    "title": "DOM和BOM的区别",
+    "sidebar_label": "DOM和BOM的区别"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "常见的兼容性问题",
+    "permalink": "/docs/html/15常见的兼容性问题"
+  },
+  "next": {
+    "title": "实现图片懒加载",
+    "permalink": "/docs/html/17实现图片懒加载"
+  }
+}

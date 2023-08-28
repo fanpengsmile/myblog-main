@@ -1,0 +1,49 @@
+{
+  "permalink": "/react高阶组件概念与简单使用",
+  "source": "@site/blog/2022-12-05react高阶组件概念与简单使用.md",
+  "title": "react高阶组件概念与简单使用",
+  "description": "react高阶组件概念与简单使用",
+  "date": "2022-12-05T00:00:00.000Z",
+  "formattedDate": "2022年12月5日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "react",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 3.7,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "react高阶组件概念与简单使用",
+    "title": "react高阶组件概念与简单使用",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "react高阶组件概念与简单使用",
+    "tags": [
+      "前端",
+      "react"
+    ]
+  },
+  "prevItem": {
+    "title": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+    "permalink": "/一文学会ajax基础使用与使用nodejs搭建一个后端服务"
+  },
+  "nextItem": {
+    "title": "浅谈与使用js中的原型",
+    "permalink": "/浅谈与使用js中的原型"
+  }
+}

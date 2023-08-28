@@ -1,0 +1,45 @@
+{
+  "permalink": "/前端模块化详解",
+  "source": "@site/blog/前端模块化详解.md",
+  "title": "前端模块化详解",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:27:38.539Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 24.43,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "前端模块化详解",
+    "title": "前端模块化详解",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "深入理解webpack自动刷新浏览器",
+    "permalink": "/深入理解webpack自动刷新浏览器"
+  },
+  "nextItem": {
+    "title": "浏览器的回流与重绘Reflow-Repaint",
+    "permalink": "/浏览器的回流与重绘Reflow-Repaint"
+  }
+}

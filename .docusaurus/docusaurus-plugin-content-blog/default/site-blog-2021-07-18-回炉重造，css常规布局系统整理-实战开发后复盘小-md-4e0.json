@@ -1,0 +1,49 @@
+{
+  "permalink": "/回炉重造，css常规布局系统整理——实战开发后复盘小结",
+  "source": "@site/blog/2021-07-18-回炉重造，css常规布局系统整理——实战开发后复盘小.md",
+  "title": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+  "description": "本文意在系统总结常用的css布局，以达到融会贯通之功效。",
+  "date": "2021-07-18T00:00:00.000Z",
+  "formattedDate": "2021年7月18日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "css",
+      "permalink": "/tags/css"
+    }
+  ],
+  "readingTime": 13.665,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+    "title": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "本文意在系统总结常用的css布局，以达到融会贯通之功效。",
+    "tags": [
+      "前端",
+      "css"
+    ]
+  },
+  "prevItem": {
+    "title": "react子父组件互相通信传值",
+    "permalink": "/react子父组件互相通信传值"
+  },
+  "nextItem": {
+    "title": "一个前端开发从零开始配置前端开发环境纪实",
+    "permalink": "/一个前端开发从零开始配置前端开发环境纪实"
+  }
+}

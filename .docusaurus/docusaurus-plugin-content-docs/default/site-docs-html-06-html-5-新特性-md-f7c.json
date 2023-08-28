@@ -1,0 +1,29 @@
+{
+  "unversionedId": "html/06HTML5新特性",
+  "id": "html/06HTML5新特性",
+  "title": "HTML5新特性",
+  "description": "HTML5是下一代HTML标准，是HTML最新的修订版本，2014年10月由万维网联盟W3C完成标准制定，HTML5将HTML从用于构造一个文档的一个简单标记，到一个完整的应用程序开发平台，HTML5还包括新元素和用于增强存储、多媒体和硬件访问的JavaScript APIs。",
+  "source": "@site/docs/html/06HTML5新特性.md",
+  "sourceDirName": "html",
+  "slug": "/html/06HTML5新特性",
+  "permalink": "/docs/html/06HTML5新特性",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "06HTML5新特性",
+    "title": "HTML5新特性",
+    "sidebar_label": "HTML5新特性"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Cookie与Session",
+    "permalink": "/docs/html/05Cookie与Session"
+  },
+  "next": {
+    "title": "Canvas基础",
+    "permalink": "/docs/html/07Canvas基础"
+  }
+}

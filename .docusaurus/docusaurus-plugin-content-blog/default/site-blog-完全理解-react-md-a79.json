@@ -1,0 +1,45 @@
+{
+  "permalink": "/完全理解React",
+  "source": "@site/blog/完全理解React.md",
+  "title": "完全理解React",
+  "description": "请输入描述",
+  "date": "2023-08-28T07:51:35.947Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 24.52,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "完全理解React",
+    "title": "完全理解React",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "这可能是最通俗的ReactFiber",
+    "permalink": "/这可能是最通俗的ReactFiber"
+  },
+  "nextItem": {
+    "title": "从源码剖析useState的执行过程",
+    "permalink": "/从源码剖析useState的执行过程"
+  }
+}

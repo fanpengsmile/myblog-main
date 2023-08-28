@@ -1,0 +1,29 @@
+{
+  "unversionedId": "html/02LocalStorage与SessionStorage",
+  "id": "html/02LocalStorage与SessionStorage",
+  "title": "LocalStorage与SessionStorage",
+  "description": "localStorage和sessionStorage是HTML5提供的对于Web存储的解决方案。",
+  "source": "@site/docs/html/02LocalStorage与SessionStorage.md",
+  "sourceDirName": "html",
+  "slug": "/html/02LocalStorage与SessionStorage",
+  "permalink": "/docs/html/02LocalStorage与SessionStorage",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "02LocalStorage与SessionStorage",
+    "title": "LocalStorage与SessionStorage",
+    "sidebar_label": "LocalStorage与SessionStorage"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "第一个html",
+    "permalink": "/docs/html/01第一个html"
+  },
+  "next": {
+    "title": "HTML DOM节点操作",
+    "permalink": "/docs/html/03HTML DOM节点操作"
+  }
+}

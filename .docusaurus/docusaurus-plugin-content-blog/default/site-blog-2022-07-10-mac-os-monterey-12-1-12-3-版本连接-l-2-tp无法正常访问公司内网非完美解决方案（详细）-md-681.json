@@ -1,0 +1,49 @@
+{
+  "permalink": "/MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）",
+  "source": "@site/blog/2022-07-10MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）.md",
+  "title": "MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）",
+  "description": "MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）。",
+  "date": "2022-07-10T00:00:00.000Z",
+  "formattedDate": "2022年7月10日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "运维",
+      "permalink": "/tags/运维"
+    }
+  ],
+  "readingTime": 3.765,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）",
+    "title": "MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "MacOS Monterey12.1-12.3版本连接L2TP无法正常访问公司内网非完美解决方案（详细）。",
+    "tags": [
+      "前端",
+      "运维"
+    ]
+  },
+  "prevItem": {
+    "title": "制作一个炫酷的github个人主页",
+    "permalink": "/制作一个炫酷的github个人主页"
+  },
+  "nextItem": {
+    "title": "使用git命令与vscode从零开始对远程代码仓库进行拉取、提交、合并、推送分支等操作在项目中的实践",
+    "permalink": "/使用git命令与vscode从零开始对远程代码仓库进行拉取、提交、合并、推送分支等操作在项目中的实践"
+  }
+}

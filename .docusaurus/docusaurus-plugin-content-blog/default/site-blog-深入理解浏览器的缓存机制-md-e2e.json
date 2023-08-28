@@ -1,0 +1,45 @@
+{
+  "permalink": "/深入理解浏览器的缓存机制",
+  "source": "@site/blog/深入理解浏览器的缓存机制.md",
+  "title": "深入理解浏览器的缓存机制",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:13:38.298Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 24.74,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "深入理解浏览器的缓存机制",
+    "title": "深入理解浏览器的缓存机制",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "前端必须懂的计算机网络TCP",
+    "permalink": "/前端必须懂的计算机网络TCP"
+  },
+  "nextItem": {
+    "title": "前端必备HTTP技能之同源策略详解",
+    "permalink": "/前端必备HTTP技能之同源策略详解"
+  }
+}

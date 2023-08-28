@@ -1,0 +1,29 @@
+{
+  "unversionedId": "html/11300ms点击延迟",
+  "id": "html/11300ms点击延迟",
+  "title": "300ms点击延迟",
+  "description": "移动端的300ms点击延迟是因为移动端可以进行双击缩放的操作，因此浏览器在click之后要等待300ms，看用户有没有下一次点击，也就是判断这次操作是单击还是双击。如果通过监听touchstart事件来替代click事件的话，会导致一些问题：touchstart是手指触摸屏幕就触发，有时候用户只是想滑动屏幕，却触发了touchstart事件；当页面上有两个元素A和B，A元素在B元素上重叠放置，如果A元素的touchstart事件绑定的回调函数是隐藏A元素自身，那么当点击A元素后A元素会消失，事件的触发顺序是touchstart -> touchend -> click，如果在300ms内没有第二次点击便会触发click事件，此时由于A元素消失，那么click事件便落到了B元素上，如果B元素是个链接或者绑定了click事件，那么B元素的默认行为或者是绑定的事件回调便会意外地触发，这就是点击穿透问题，解决这个问题还是需要解决click事件的300ms延迟问题。",
+  "source": "@site/docs/html/11_300ms点击延迟.md",
+  "sourceDirName": "html",
+  "slug": "/html/11300ms点击延迟",
+  "permalink": "/docs/html/11300ms点击延迟",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "11300ms点击延迟",
+    "title": "300ms点击延迟",
+    "sidebar_label": "300ms点击延迟"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Web Worker",
+    "permalink": "/docs/html/10Web Worker"
+  },
+  "next": {
+    "title": "事件冒泡与阻止冒泡机制",
+    "permalink": "/docs/html/12事件冒泡与阻止冒泡机制"
+  }
+}

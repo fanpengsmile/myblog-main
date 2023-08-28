@@ -1,0 +1,49 @@
+{
+  "permalink": "/浅谈与使用js中的原型",
+  "source": "@site/blog/2022-11-22浅谈与使用js中的原型.md",
+  "title": "浅谈与使用js中的原型",
+  "description": "浅谈与使用js中的原型",
+  "date": "2022-11-22T00:00:00.000Z",
+  "formattedDate": "2022年11月22日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    }
+  ],
+  "readingTime": 3.38,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "浅谈与使用js中的原型",
+    "title": "浅谈与使用js中的原型",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "浅谈与使用js中的原型",
+    "tags": [
+      "前端",
+      "javascript"
+    ]
+  },
+  "prevItem": {
+    "title": "react高阶组件概念与简单使用",
+    "permalink": "/react高阶组件概念与简单使用"
+  },
+  "nextItem": {
+    "title": "js中this指向问题及call，apply，bind的区别",
+    "permalink": "/js中this指向问题及call，apply，bind的区别"
+  }
+}

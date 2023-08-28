@@ -1,0 +1,144 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "all-intro",
+          "docs": [
+            {
+              "id": "all-intro",
+              "path": "/docs/all-intro",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "css/01第一个css",
+              "path": "/docs/css/01第一个css",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "css/css-intro",
+              "path": "/docs/css/css-intro"
+            },
+            {
+              "id": "html/01第一个html",
+              "path": "/docs/html/01第一个html",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/02LocalStorage与SessionStorage",
+              "path": "/docs/html/02LocalStorage与SessionStorage",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/03HTML DOM节点操作",
+              "path": "/docs/html/03HTML DOM节点操作",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/04iframe框架及优缺点",
+              "path": "/docs/html/04iframe框架及优缺点",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/05Cookie与Session",
+              "path": "/docs/html/05Cookie与Session",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/06HTML5新特性",
+              "path": "/docs/html/06HTML5新特性",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/07Canvas基础",
+              "path": "/docs/html/07Canvas基础",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/08前端性能优化方案",
+              "path": "/docs/html/08前端性能优化方案",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/09行内元素和块级元素",
+              "path": "/docs/html/09行内元素和块级元素",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/10Web Worker",
+              "path": "/docs/html/10Web Worker",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/11300ms点击延迟",
+              "path": "/docs/html/11300ms点击延迟",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/12事件冒泡与阻止冒泡机制",
+              "path": "/docs/html/12事件冒泡与阻止冒泡机制",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/13可替换元素和非替换元素",
+              "path": "/docs/html/13可替换元素和非替换元素",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/14HTML与XHTML区别",
+              "path": "/docs/html/14HTML与XHTML区别",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/15常见的兼容性问题",
+              "path": "/docs/html/15常见的兼容性问题",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/16DOM和BOM的区别",
+              "path": "/docs/html/16DOM和BOM的区别",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/17实现图片懒加载",
+              "path": "/docs/html/17实现图片懒加载",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/18Shadow DOM的理解",
+              "path": "/docs/html/18Shadow DOM的理解",
+              "sidebar": "mySidebar"
+            },
+            {
+              "id": "html/html-intro",
+              "path": "/docs/html/html-intro"
+            },
+            {
+              "id": "mdx",
+              "path": "/docs/mdx"
+            },
+            {
+              "id": "react/react-intro",
+              "path": "/docs/react/react-intro"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mySidebar": {
+              "link": {
+                "path": "/docs/all-intro",
+                "label": "开始"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

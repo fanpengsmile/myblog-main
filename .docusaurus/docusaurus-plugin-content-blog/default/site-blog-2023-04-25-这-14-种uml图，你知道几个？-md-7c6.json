@@ -1,0 +1,49 @@
+{
+  "permalink": "/这14种UML图，你知道几个？",
+  "source": "@site/blog/2023-04-25这14种UML图，你知道几个？.md",
+  "title": "这14种UML图，你知道几个？",
+  "description": "这14种UML图，你知道几个？",
+  "date": "2023-04-25T00:00:00.000Z",
+  "formattedDate": "2023年4月25日",
+  "tags": [
+    {
+      "label": "架构",
+      "permalink": "/tags/架构"
+    },
+    {
+      "label": "UML",
+      "permalink": "/tags/uml"
+    }
+  ],
+  "readingTime": 6.665,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "这14种UML图，你知道几个？",
+    "title": "这14种UML图，你知道几个？",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "这14种UML图，你知道几个？",
+    "tags": [
+      "架构",
+      "UML"
+    ]
+  },
+  "prevItem": {
+    "title": "vue3中子父组件传值通信的9种方法",
+    "permalink": "/vue3中子父组件传值通信的9种方法"
+  },
+  "nextItem": {
+    "title": "ts绕开属性检查的3种方法",
+    "permalink": "/ts绕开属性检查的3种方法"
+  }
+}

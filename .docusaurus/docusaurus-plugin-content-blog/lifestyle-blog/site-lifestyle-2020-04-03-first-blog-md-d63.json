@@ -1,0 +1,35 @@
+{
+  "permalink": "/lifestyle/lifestyle-test",
+  "source": "@site/lifestyle/2020-04-03-first-blog.md",
+  "title": "测试第二博客",
+  "description": "测试第二博客",
+  "date": "2020-04-03T00:00:00.000Z",
+  "formattedDate": "2020年4月3日",
+  "tags": [
+    {
+      "label": "生活方式",
+      "permalink": "/lifestyle/tags/生活方式"
+    }
+  ],
+  "readingTime": 0.03,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "峰华",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/ zxuqian",
+      "imageURL": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/b2745d44ly8g8s4muqeggj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1582389585&ssig=EvXmyu%2FXsX"
+    }
+  ],
+  "frontMatter": {
+    "slug": "lifestyle-test",
+    "title": "测试第二博客",
+    "author": "峰华",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/ zxuqian",
+    "author_image_url": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/b2745d44ly8g8s4muqeggj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1582389585&ssig=EvXmyu%2FXsX",
+    "tags": [
+      "生活方式"
+    ]
+  }
+}

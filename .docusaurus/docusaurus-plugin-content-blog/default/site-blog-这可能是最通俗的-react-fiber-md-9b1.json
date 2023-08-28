@@ -1,0 +1,45 @@
+{
+  "permalink": "/这可能是最通俗的ReactFiber",
+  "source": "@site/blog/这可能是最通俗的ReactFiber.md",
+  "title": "这可能是最通俗的ReactFiber",
+  "description": "请输入描述",
+  "date": "2023-08-28T07:54:21.115Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 63.385,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "这可能是最通俗的ReactFiber",
+    "title": "这可能是最通俗的ReactFiber",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "useEffect完整指南",
+    "permalink": "/useEffect完整指南"
+  },
+  "nextItem": {
+    "title": "完全理解React",
+    "permalink": "/完全理解React"
+  }
+}

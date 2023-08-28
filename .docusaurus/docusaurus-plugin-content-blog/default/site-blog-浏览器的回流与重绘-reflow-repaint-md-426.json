@@ -1,0 +1,45 @@
+{
+  "permalink": "/浏览器的回流与重绘Reflow-Repaint",
+  "source": "@site/blog/浏览器的回流与重绘Reflow-Repaint.md",
+  "title": "浏览器的回流与重绘Reflow-Repaint",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:26:55.606Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 4.87,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "浏览器的回流与重绘Reflow-Repaint",
+    "title": "浏览器的回流与重绘Reflow-Repaint",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "前端模块化详解",
+    "permalink": "/前端模块化详解"
+  },
+  "nextItem": {
+    "title": "跨源资源共享CORS",
+    "permalink": "/跨源资源共享CORS"
+  }
+}

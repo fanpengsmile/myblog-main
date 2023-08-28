@@ -1,0 +1,29 @@
+{
+  "unversionedId": "html/05Cookie与Session",
+  "id": "html/05Cookie与Session",
+  "title": "Cookie与Session",
+  "description": "会话跟踪是Web程序中常用的技术，HTTP协议是无状态的，确定用户身份就需要跟踪用户的整个会话。最常用的会话跟踪是使用Cookie与Session，简单来说Cookie通过在客户端记录信息确定用户身份，Session通过在服务器端记录信息确定用户身份。",
+  "source": "@site/docs/html/05Cookie与Session.md",
+  "sourceDirName": "html",
+  "slug": "/html/05Cookie与Session",
+  "permalink": "/docs/html/05Cookie与Session",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "05Cookie与Session",
+    "title": "Cookie与Session",
+    "sidebar_label": "Cookie与Session"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "iframe框架及优缺点",
+    "permalink": "/docs/html/04iframe框架及优缺点"
+  },
+  "next": {
+    "title": "HTML5新特性",
+    "permalink": "/docs/html/06HTML5新特性"
+  }
+}

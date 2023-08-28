@@ -1,0 +1,41 @@
+{
+  "permalink": "/前端JS沙箱实现的几种方式",
+  "source": "@site/blog/前端JS沙箱实现的几种方式.md",
+  "title": "前端JS沙箱实现的几种方式",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:34:33.574Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 9.775,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "前端JS沙箱实现的几种方式",
+    "title": "前端JS沙箱实现的几种方式",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "nextItem": {
+    "title": "React服务端渲染",
+    "permalink": "/React服务端渲染"
+  }
+}

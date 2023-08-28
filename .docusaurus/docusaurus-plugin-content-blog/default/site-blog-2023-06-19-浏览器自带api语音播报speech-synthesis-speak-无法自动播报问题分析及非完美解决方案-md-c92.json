@@ -1,0 +1,49 @@
+{
+  "permalink": "/浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+  "source": "@site/blog/2023-06-19浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案.md",
+  "title": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+  "description": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+  "date": "2023-06-19T00:00:00.000Z",
+  "formattedDate": "2023年6月19日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    }
+  ],
+  "readingTime": 3.38,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+    "title": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+    "tags": [
+      "前端",
+      "javascript"
+    ]
+  },
+  "prevItem": {
+    "title": "从源码剖析useState的执行过程",
+    "permalink": "/从源码剖析useState的执行过程"
+  },
+  "nextItem": {
+    "title": "vue3中子父组件传值通信的9种方法",
+    "permalink": "/vue3中子父组件传值通信的9种方法"
+  }
+}

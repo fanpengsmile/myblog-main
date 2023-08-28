@@ -1,0 +1,45 @@
+{
+  "permalink": "/JavaScript的工作原理：解析、抽象语法树",
+  "source": "@site/blog/JavaScript的工作原理：解析、抽象语法树.md",
+  "title": "JavaScript的工作原理：解析、抽象语法树",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:24:14.333Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 24.765,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "JavaScript的工作原理：解析、抽象语法树",
+    "title": "JavaScript的工作原理：解析、抽象语法树",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "跨源资源共享CORS",
+    "permalink": "/跨源资源共享CORS"
+  },
+  "nextItem": {
+    "title": "防抖和节流",
+    "permalink": "/防抖和节流"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念",
+  "source": "@site/blog/2021-08-06-一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念 copy.md",
+  "title": "一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念",
+  "description": "自适应布局的前缀基础。",
+  "date": "2021-08-06T00:00:00.000Z",
+  "formattedDate": "2021年8月6日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "css",
+      "permalink": "/tags/css"
+    }
+  ],
+  "readingTime": 2.735,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念",
+    "title": "一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "自适应布局的前缀基础。",
+    "tags": [
+      "前端",
+      "css"
+    ]
+  },
+  "prevItem": {
+    "title": "一个前端开发对于Flex布局的总结（图解，简单易懂，全）",
+    "permalink": "/一个前端开发对于Flex布局的总结（图解，简单易懂，全）"
+  },
+  "nextItem": {
+    "title": "react子父组件互相通信传值",
+    "permalink": "/react子父组件互相通信传值"
+  }
+}

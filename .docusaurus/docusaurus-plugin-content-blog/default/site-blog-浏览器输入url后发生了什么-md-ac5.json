@@ -1,0 +1,45 @@
+{
+  "permalink": "/浏览器输入URL后发生了什么",
+  "source": "@site/blog/浏览器输入URL后发生了什么.md",
+  "title": "浏览器输入URL后发生了什么",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:18:14.495Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 4.82,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "浏览器输入URL后发生了什么",
+    "title": "浏览器输入URL后发生了什么",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "HTTPS加密原理",
+    "permalink": "/HTTPS加密原理"
+  },
+  "nextItem": {
+    "title": "web前端安全攻击与防御",
+    "permalink": "/web前端安全攻击与防御"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "permalink": "/如何使用react-router实现一个路由权限判断",
+  "source": "@site/blog/2023-02-19react-router知识点总结.md",
+  "title": "如何使用react-router实现一个路由权限判断",
+  "description": "如何使用react-router实现一个路由权限判断",
+  "date": "2023-02-19T00:00:00.000Z",
+  "formattedDate": "2023年2月19日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "react",
+      "permalink": "/tags/react"
+    },
+    {
+      "label": "react-router",
+      "permalink": "/tags/react-router"
+    }
+  ],
+  "readingTime": 3.35,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师 / B站UP主",
+      "url": "https://github.com/JACK-ZHANG-coming",
+      "imageURL": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "如何使用react-router实现一个路由权限判断",
+    "title": "如何使用react-router实现一个路由权限判断",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师 / B站UP主",
+    "author_url": "https://github.com/JACK-ZHANG-coming",
+    "author_image_url": "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+    "description": "如何使用react-router实现一个路由权限判断",
+    "tags": [
+      "前端",
+      "react",
+      "react-router"
+    ]
+  },
+  "prevItem": {
+    "title": "ts绕开属性检查的3种方法",
+    "permalink": "/ts绕开属性检查的3种方法"
+  },
+  "nextItem": {
+    "title": "一文学会ajax基础使用与使用nodejs搭建一个后端服务",
+    "permalink": "/一文学会ajax基础使用与使用nodejs搭建一个后端服务"
+  }
+}

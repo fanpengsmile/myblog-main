@@ -1,0 +1,25 @@
+{
+  "unversionedId": "css/01第一个css",
+  "id": "css/01第一个css",
+  "title": "第一个css",
+  "description": "",
+  "source": "@site/docs/css/01第一个css.md",
+  "sourceDirName": "css",
+  "slug": "/css/01第一个css",
+  "permalink": "/docs/css/01第一个css",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "01第一个css",
+    "title": "第一个css",
+    "sidebar_label": "第一个css"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Shadow DOM的理解",
+    "permalink": "/docs/html/18Shadow DOM的理解"
+  }
+}

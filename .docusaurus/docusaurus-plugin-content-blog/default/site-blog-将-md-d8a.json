@@ -1,0 +1,41 @@
+{
+  "permalink": "/将",
+  "source": "@site/blog/将.md",
+  "title": "将",
+  "description": "请输入描述",
+  "date": "2023-08-28T08:02:33.050Z",
+  "formattedDate": "2023年8月28日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 0.015,
+  "truncated": true,
+  "authors": [
+    {
+      "name": "潜心专研前端的Peyton",
+      "title": "前端工程师"
+    }
+  ],
+  "frontMatter": {
+    "slug": "将",
+    "title": "将",
+    "author": "潜心专研前端的Peyton",
+    "author_title": "前端工程师",
+    "description": "请输入描述",
+    "tags": [
+      "前端",
+      "React"
+    ]
+  },
+  "nextItem": {
+    "title": "React：事件机制原理",
+    "permalink": "/React：事件机制原理"
+  }
+}
