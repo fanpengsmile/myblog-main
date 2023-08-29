@@ -1,6 +1,6 @@
 # 个人博客
 
-本博客基于 [Docusaurus 2](https://v2.docusaurus.io/) JAMStack 静态网站生成器与[峰华前端工程师博客网站](https://zxuqian.cn/)实现，作为 Bilibili（潜心专研前端的Peyton） 视频的文本版载体呈现与个人前端知识总结归纳分析。本博客网站专注前端发展与技术分享，至死不渝！
+本博客基于 [Docusaurus 2](https://v2.docusaurus.io/) JAMStack 静态网站生成器与[峰华前端工程师博客网站](https://zxuqian.cn/)实现
 
 本博客的代码如无特殊说明，可以自由使用，版权信息详见[关于版权](#关于版权)部分。接下来简单介绍一下本博客的开发和部署方式，关于 Docusaurus 的使用方法请参考官方网站 [Docusaurus 2](https://v2.docusaurus.io/)。
 
@@ -33,9 +33,6 @@ $ yarn build-cn
 ```
 
 关于部署，由于不同的服务器、平台有不同的方式，可以使用 Github Pages、FTP、自行搭建服务器等。
-
-本人采用的是 vercel来构建的： https://vercel.com/dashboard
-（先已经改用自己购买的服务器，但是依然可以用vercel来构建，只是国内的快一些而已）
 
 ## 目录介绍
 
@@ -111,10 +108,6 @@ hygen doc new [文档名称]
 hygen doc new react-get-started
 ```
 创建好的文档会直接放到 `docs/react-examples` 目录下，这个目录可以通过 hygen 模板中的参数进行修改，可以通过命令行指定，或者在模板中编写固定路径，由于文档的配置项比较少，所以我自己一般通过复制粘贴之前的文档形式来创建新的文档，并手动追加到 `sidebars.js` 文件中。
-
-关于和 Bilibili 视频相关的文字版脚本，可以使用 `yarn gen` 命令创建，具体使用方法如下：
-
-（待完善）
 
 ## 自定义组件（待完善）
 
