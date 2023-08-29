@@ -43,7 +43,8 @@
     "rehype-katex": "^4.0.0",
     "remark-math": "^3.0.1",
     "styled-components": "^5.0.1",
-    "theme": "^0.1.0"
+    "theme": "^0.1.0",
+    "antd": "5.8.5"
   },
   "browserslist": {
     "production": [

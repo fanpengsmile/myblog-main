@@ -3,7 +3,7 @@
   "source": "@site/blog/webpack打包原理.md",
   "title": "webpack打包原理",
   "description": "请输入描述",
-  "date": "2023-08-28T08:30:06.992Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "自定义Loader",
-    "permalink": "/自定义Loader"
+    "title": "useEffect完整指南",
+    "permalink": "/useEffect完整指南"
   },
   "nextItem": {
-    "title": "理解BFC原理",
-    "permalink": "/理解BFC原理"
+    "title": "web前端安全攻击与防御",
+    "permalink": "/web前端安全攻击与防御"
   }
 }

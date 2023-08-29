@@ -3,7 +3,7 @@
   "source": "@site/blog/自定义Loader.md",
   "title": "自定义Loader",
   "description": "请输入描述",
-  "date": "2023-08-28T08:31:30.799Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "React服务端渲染",
-    "permalink": "/React服务端渲染"
+    "title": "理解BFC原理",
+    "permalink": "/理解BFC原理"
   },
   "nextItem": {
-    "title": "webpack打包原理",
-    "permalink": "/webpack打包原理"
+    "title": "跨源资源共享CORS",
+    "permalink": "/跨源资源共享CORS"
   }
 }

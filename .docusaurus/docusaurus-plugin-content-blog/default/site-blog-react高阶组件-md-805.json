@@ -3,7 +3,7 @@
   "source": "@site/blog/React高阶组件.md",
   "title": "React高阶组件",
   "description": "请输入描述",
-  "date": "2023-08-28T08:04:12.051Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "Redux浅谈",
-    "permalink": "/Redux浅谈"
+    "title": "React服务端渲染",
+    "permalink": "/React服务端渲染"
   },
   "nextItem": {
-    "title": "将React作为UI运行时",
-    "permalink": "/将React作为UI运行时"
+    "title": "React：事件机制原理",
+    "permalink": "/React：事件机制原理"
   }
 }

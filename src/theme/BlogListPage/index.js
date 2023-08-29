@@ -12,11 +12,10 @@ import BlogPostItem from "@theme/BlogPostItem";
 import BlogListPaginator from "@theme/BlogListPaginator";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faLinkedin,
   faGithub,
   faWeixin,
 } from "@fortawesome/free-brands-svg-icons";
-import useBaseUrl from "@docusaurus/useBaseUrl";
+import { FloatButton, Carousel } from 'antd';
 // import bilibiliIcon from "@site/static/icons/bilibili.svg";
 
 import useFollowers from "./useFollowers";
@@ -90,7 +89,20 @@ function BlogListPage(props) {
   //   },
   // });
 
+  const imgList = [
+    'https://dscache.tencent-cloud.cn/upload/uploader/2-43a767895823b933fd4f9ba5a594e2ee0bc0679f.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/7-198fb72b1e2ef11c4507714937993c418d425a29.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/6-1fdf149c07cdcd1cb1f3eeb849982dd67c906efd.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/11-aef36b01fadde3795b191ac3b16dbf5af3545218.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/9-fefb40f27f5580e9d7cb2154260f1d93fe56170e.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/3-958901d26123faba36cc717aa70490e8d1482123.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/12-0da27fe831ced484971f81ded86b15f0d653f879.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/1-4b632db4bce3523568390ccfef65d4bd6c3a37fb.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/8-519209b7830e18321b38021a6a962cd363a2fa24.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/999-12e331ae5bd4149e615b9056a1a05b198a70c0d7.png',
+    'https://dscache.tencent-cloud.cn/upload/uploader/4-171d3081b14af27b2d9029feb34160b10c5455e6.png',
 
+  ]
   useEffect(() => {
     
   }, []);
@@ -180,7 +192,6 @@ function BlogListPage(props) {
             <animated.div style={animatedTexts[2]}>
             </animated.div>
           </div>
-
           <HeroMainImage />
           {/* <animated.div
           className="bloghome__scroll-down"
@@ -192,12 +203,25 @@ function BlogListPage(props) {
         </animated.div> */}
         </animated.div>
       )}
+      <FloatButton
+        tooltip={
+          <div>
+            <Carousel autoplay={true}>
+              {imgList.map(item => (<img src={item} key={item}></img>))}
+            </Carousel>
+          </div>
+        }
+        style={{width: '50px', height: '50px'}}
+        description='我的朋友们'
+        icon={<FontAwesomeIcon icon={faWeixin} size="lg" />}
+      />
       <div className="container-wrapper">
         <div className="container padding-vert--sm">
           <div className="row">
             <div className="col col--12">
               {/* <div className="content__divider"></div> */}
               {!isPaginated && (
+                <div>
                 <h1 className="blog__section_title" id="homepage_blogs">
                   <Translate description="latest blogs heading">
                     最新博客
@@ -216,6 +240,7 @@ function BlogListPage(props) {
                     />
                   </svg>
                 </h1>
+              </div>
               )}
               {/* switch list and card */}
               <div className="bloghome__swith-view">

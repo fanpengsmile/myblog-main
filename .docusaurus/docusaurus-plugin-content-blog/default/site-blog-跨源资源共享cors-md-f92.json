@@ -3,7 +3,7 @@
   "source": "@site/blog/跨源资源共享CORS.md",
   "title": "跨源资源共享CORS",
   "description": "请输入描述",
-  "date": "2023-08-28T08:25:27.756Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "浏览器的回流与重绘Reflow-Repaint",
-    "permalink": "/浏览器的回流与重绘Reflow-Repaint"
+    "title": "自定义Loader",
+    "permalink": "/自定义Loader"
   },
   "nextItem": {
-    "title": "JavaScript的工作原理：解析、抽象语法树",
-    "permalink": "/JavaScript的工作原理：解析、抽象语法树"
+    "title": "这可能是最通俗的ReactFiber",
+    "permalink": "/这可能是最通俗的ReactFiber"
   }
 }

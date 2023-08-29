@@ -3,7 +3,7 @@
   "source": "@site/blog/理解BFC原理.md",
   "title": "理解BFC原理",
   "description": "请输入描述",
-  "date": "2023-08-28T08:29:28.840Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "webpack打包原理",
-    "permalink": "/webpack打包原理"
+    "title": "深入理解浏览器的缓存机制",
+    "permalink": "/深入理解浏览器的缓存机制"
   },
   "nextItem": {
-    "title": "深入理解webpack自动刷新浏览器",
-    "permalink": "/深入理解webpack自动刷新浏览器"
+    "title": "自定义Loader",
+    "permalink": "/自定义Loader"
   }
 }

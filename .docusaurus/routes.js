@@ -99,12 +99,12 @@ export default [
   },
   {
     path: '/page/2',
-    component: ComponentCreator('/page/2', '97b'),
+    component: ComponentCreator('/page/2', '275'),
     exact: true
   },
   {
     path: '/page/3',
-    component: ComponentCreator('/page/3', '695'),
+    component: ComponentCreator('/page/3', '4ef'),
     exact: true
   },
   {
@@ -229,7 +229,7 @@ export default [
   },
   {
     path: '/tags/react',
-    component: ComponentCreator('/tags/react', 'a47'),
+    component: ComponentCreator('/tags/react', '63c'),
     exact: true
   },
   {
@@ -239,12 +239,12 @@ export default [
   },
   {
     path: '/tags/react/page/2',
-    component: ComponentCreator('/tags/react/page/2', 'f7f'),
+    component: ComponentCreator('/tags/react/page/2', 'c46'),
     exact: true
   },
   {
     path: '/tags/react/page/3',
-    component: ComponentCreator('/tags/react/page/3', 'd4d'),
+    component: ComponentCreator('/tags/react/page/3', '618'),
     exact: true
   },
   {
@@ -274,17 +274,17 @@ export default [
   },
   {
     path: '/tags/前端',
-    component: ComponentCreator('/tags/前端', '70d'),
+    component: ComponentCreator('/tags/前端', '46b'),
     exact: true
   },
   {
     path: '/tags/前端/page/2',
-    component: ComponentCreator('/tags/前端/page/2', '933'),
+    component: ComponentCreator('/tags/前端/page/2', 'c97'),
     exact: true
   },
   {
     path: '/tags/前端/page/3',
-    component: ComponentCreator('/tags/前端/page/3', '0a1'),
+    component: ComponentCreator('/tags/前端/page/3', '3ef'),
     exact: true
   },
   {
@@ -645,7 +645,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'de2'),
+    component: ComponentCreator('/', 'b98'),
     exact: true
   },
   {

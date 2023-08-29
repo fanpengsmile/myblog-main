@@ -3,7 +3,7 @@
   "source": "@site/blog/前端JS沙箱实现的几种方式.md",
   "title": "前端JS沙箱实现的几种方式",
   "description": "请输入描述",
-  "date": "2023-08-28T08:34:33.574Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -34,8 +34,12 @@
       "React"
     ]
   },
+  "prevItem": {
+    "title": "从源码剖析useState的执行过程",
+    "permalink": "/从源码剖析useState的执行过程"
+  },
   "nextItem": {
-    "title": "React服务端渲染",
-    "permalink": "/React服务端渲染"
+    "title": "前端必备HTTP技能之同源策略详解",
+    "permalink": "/前端必备HTTP技能之同源策略详解"
   }
 }

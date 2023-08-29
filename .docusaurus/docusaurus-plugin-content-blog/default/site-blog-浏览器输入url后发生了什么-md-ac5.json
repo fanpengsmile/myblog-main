@@ -3,7 +3,7 @@
   "source": "@site/blog/浏览器输入URL后发生了什么.md",
   "title": "浏览器输入URL后发生了什么",
   "description": "请输入描述",
-  "date": "2023-08-28T08:18:14.495Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "HTTPS加密原理",
-    "permalink": "/HTTPS加密原理"
+    "title": "浏览器的回流与重绘Reflow-Repaint",
+    "permalink": "/浏览器的回流与重绘Reflow-Repaint"
   },
   "nextItem": {
-    "title": "web前端安全攻击与防御",
-    "permalink": "/web前端安全攻击与防御"
+    "title": "深入理解Redux中间件的原理",
+    "permalink": "/深入理解Redux中间件的原理"
   }
 }

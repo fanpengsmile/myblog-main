@@ -3,7 +3,7 @@
   "source": "@site/blog/深入理解Redux中间件的原理.md",
   "title": "深入理解Redux中间件的原理",
   "description": "请输入描述",
-  "date": "2023-08-28T08:09:50.985Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "react-redux之connect方法详解",
-    "permalink": "/react-redux之connect方法详解"
+    "title": "浏览器输入URL后发生了什么",
+    "permalink": "/浏览器输入URL后发生了什么"
   },
   "nextItem": {
-    "title": "Redux原理解析与实现",
-    "permalink": "/Redux原理解析与实现"
+    "title": "深入理解webpack自动刷新浏览器",
+    "permalink": "/深入理解webpack自动刷新浏览器"
   }
 }

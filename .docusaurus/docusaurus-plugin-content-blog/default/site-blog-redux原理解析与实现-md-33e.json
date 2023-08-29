@@ -3,7 +3,7 @@
   "source": "@site/blog/Redux原理解析与实现.md",
   "title": "Redux原理解析与实现",
   "description": "请输入描述",
-  "date": "2023-08-28T08:09:11.823Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "深入理解Redux中间件的原理",
-    "permalink": "/深入理解Redux中间件的原理"
+    "title": "React：事件机制原理",
+    "permalink": "/React：事件机制原理"
   },
   "nextItem": {
-    "title": "React中的forwardRef究竟该怎么用",
-    "permalink": "/React中的forwardRef究竟该怎么用"
+    "title": "Redux浅谈",
+    "permalink": "/Redux浅谈"
   }
 }

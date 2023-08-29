@@ -3,7 +3,7 @@
   "source": "@site/blog/HTTPS加密原理.md",
   "title": "HTTPS加密原理",
   "description": "请输入描述",
-  "date": "2023-08-28T08:20:28.854Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -34,12 +34,8 @@
       "React"
     ]
   },
-  "prevItem": {
-    "title": "防抖和节流",
-    "permalink": "/防抖和节流"
-  },
   "nextItem": {
-    "title": "浏览器输入URL后发生了什么",
-    "permalink": "/浏览器输入URL后发生了什么"
+    "title": "JavaScript的工作原理：解析、抽象语法树",
+    "permalink": "/JavaScript的工作原理：解析、抽象语法树"
   }
 }

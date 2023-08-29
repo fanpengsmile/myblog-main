@@ -3,7 +3,7 @@
   "source": "@site/blog/useEffect完整指南.md",
   "title": "useEffect完整指南",
   "description": "请输入描述",
-  "date": "2023-08-28T07:55:50.967Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "React：事件机制原理",
-    "permalink": "/React：事件机制原理"
+    "title": "react-redux之connect方法详解",
+    "permalink": "/react-redux之connect方法详解"
   },
   "nextItem": {
-    "title": "这可能是最通俗的ReactFiber",
-    "permalink": "/这可能是最通俗的ReactFiber"
+    "title": "webpack打包原理",
+    "permalink": "/webpack打包原理"
   }
 }

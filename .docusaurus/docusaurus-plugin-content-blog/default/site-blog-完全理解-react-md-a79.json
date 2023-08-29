@@ -3,7 +3,7 @@
   "source": "@site/blog/完全理解React.md",
   "title": "完全理解React",
   "description": "请输入描述",
-  "date": "2023-08-28T07:51:35.947Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "这可能是最通俗的ReactFiber",
-    "permalink": "/这可能是最通俗的ReactFiber"
+    "title": "前端模块化详解",
+    "permalink": "/前端模块化详解"
   },
   "nextItem": {
-    "title": "从源码剖析useState的执行过程",
-    "permalink": "/从源码剖析useState的执行过程"
+    "title": "将React作为UI运行时",
+    "permalink": "/将React作为UI运行时"
   }
 }

@@ -3,7 +3,7 @@
   "source": "@site/blog/防抖和节流.md",
   "title": "防抖和节流",
   "description": "请输入描述",
-  "date": "2023-08-28T08:21:26.862Z",
+  "date": "2023-08-28T09:04:46.000Z",
   "formattedDate": "2023年8月28日",
   "tags": [
     {
@@ -35,11 +35,11 @@
     ]
   },
   "prevItem": {
-    "title": "JavaScript的工作原理：解析、抽象语法树",
-    "permalink": "/JavaScript的工作原理：解析、抽象语法树"
+    "title": "这可能是最通俗的ReactFiber",
+    "permalink": "/这可能是最通俗的ReactFiber"
   },
   "nextItem": {
-    "title": "HTTPS加密原理",
-    "permalink": "/HTTPS加密原理"
+    "title": "浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案",
+    "permalink": "/浏览器自带api语音播报speechSynthesis.speak()无法自动播报问题分析及非完美解决方案"
   }
 }
