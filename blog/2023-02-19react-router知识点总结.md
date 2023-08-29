@@ -4,7 +4,7 @@ title: 如何使用react-router实现一个路由权限判断
 author: 潜心专研前端的Peyton
 author_title: 前端工程师 / B站UP主
 author_url: https://github.com/JACK-ZHANG-coming
-author_image_url: https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png
+author_image_url: https://dscache.tencent-cloud.cn/upload/uploader/999-12e331ae5bd4149e615b9056a1a05b198a70c0d7.png
 description: 如何使用react-router实现一个路由权限判断
 tags: [前端, react, react-router]
 # activityId: 相关动态 ID

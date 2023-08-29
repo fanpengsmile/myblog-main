@@ -4,7 +4,7 @@ title: 一文学会ajax基础使用与使用nodejs搭建一个后端服务
 author: 潜心专研前端的Peyton
 author_title: 前端工程师 / B站UP主
 author_url: https://github.com/JACK-ZHANG-coming
-author_image_url: https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png
+author_image_url: https://dscache.tencent-cloud.cn/upload/uploader/999-12e331ae5bd4149e615b9056a1a05b198a70c0d7.png
 description: 一文学会ajax基础使用与使用nodejs搭建一个后端服务
 tags: [前端, ajax, node.js]
 # activityId: 相关动态 ID

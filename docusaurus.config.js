@@ -9,7 +9,7 @@ module.exports = {
   titleDelimiter: "-",
   url: "https://zhangqiang.vercel.app",
   baseUrl: "/",
-  favicon: "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png", // 网站图标
+  favicon: "https://dscache.tencent-cloud.cn/upload/uploader/999-12e331ae5bd4149e615b9056a1a05b198a70c0d7.png", // 网站图标
   organizationName: "zhangqiang", // Usually your GitHub org/user name.
   projectName: "zhangqiang.vercel.app", // Usually your repo name.
   themeConfig: {
@@ -29,8 +29,8 @@ module.exports = {
       title: "潜心专研前端的Peyton",
       logo: {
         alt: "潜心专研前端的Peyton",
-        src: "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
-        srcDark: "https://dscache.tencent-cloud.cn/upload/uploader/me-92a68e681ce3e4498e0f4b495c7fff699f3e5dd2.png",
+        src: "https://dscache.tencent-cloud.cn/upload/uploader/999-12e331ae5bd4149e615b9056a1a05b198a70c0d7.png",
+        srcDark: "https://dscache.tencent-cloud.cn/upload/uploader/999-12e331ae5bd4149e615b9056a1a05b198a70c0d7.png",
       },
       items: [{
         type: "localeDropdown",
